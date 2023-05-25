@@ -22,7 +22,7 @@
 .row{
     width: 900px;
     height: 550px;
-    border-radius: 10px;
+    border-radius: 5px;
     background: #ffff;
     box-shadow: 5px 5px 10px 1px rgba(0, 0, 0, 0.1);
 }
@@ -88,7 +88,6 @@
 }
 .sign-up-social {
     width: 100%;
-    color: black;
     display: flex;
     text-align: center;
     justify-content: center;
